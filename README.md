@@ -1,4 +1,4 @@
-# Awesome OSINT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<img width="1286" height="609" alt="image" src="https://github.com/user-attachments/assets/efaaba5e-aa44-469c-9b54-fcc7225476b4" /># Awesome OSINT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://github.com/jivoi/awesome-osint/raw/master/osint_logo.png" align="right" width="100">](https://github.com/jivoi/awesome-osint)
 
@@ -185,6 +185,7 @@ algorithms, knowledgebase and AI technology.
 
 * [CheckLeaked](https://checkleaked.cc/) - Check if an email, username or phone appears in a data breach, showing the sources; free searches, developer API and chat bots.
 * [CredenShow](https://credenshow.com/) - Identify your compromised credentials before others do.
+* [DuckINT](https://duckint.cc/) - Search an email, username, domain, IP or Discord ID across breach, infostealer and public sources in one query.
 * [HIB Ransomed](https://haveibeenransom.com/) - Because people have the right to know if their data has been leaked.
 * [HEROIC.NOW](https://heroic.com/) - Has your data been leaked on the dark web? Scan your identities for FREE.
 * [IKnowYour.Dad](https://iknowyour.dad/) - Data Breach Search Engine.
